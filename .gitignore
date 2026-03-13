@@ -1,0 +1,4 @@
+config.py
+weather_history.csv
+__pycache__/
+.env
