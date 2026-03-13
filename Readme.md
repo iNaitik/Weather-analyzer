@@ -1,6 +1,10 @@
 # Weather Data Analyzer (CLI)
 
-A command line application that fetches real-time weather data using the OpenWeather API and analyzes stored weather search history.
+Weather Analyzer is a Python project that collects weather data using a public weather API and analyzes it to generate useful statistics for different cities.
+
+The project demonstrates working with APIs, file handling, data processing, and basic data analysis using Python. Weather data is stored locally and can be used to calculate statistics such as average temperature and city-based comparisons.
+
+It is a command line application that fetches real-time weather data using the OpenWeather API and analyzes stored weather search history.
 
 ## Features
 
